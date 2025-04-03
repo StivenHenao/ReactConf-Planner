@@ -1,4 +1,4 @@
-#🎟️ ReactConf Planner
+# 🎟️ ReactConf Planner
 A simple and interactive event planning application built with React. Easily choose venues, customize add-ons, and select meal options while viewing a detailed summary of your event.
 
 #✨ Features
@@ -15,8 +15,8 @@ A simple and interactive event planning application built with React. Easily cho
 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/StivenHenao/ReactConf-Planner.git
-```
 cd event-planner
+```
 2️⃣ Install dependencies:
 ```bash
 npm install
